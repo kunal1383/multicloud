@@ -1,9 +1,11 @@
 welcome to cloud
 <br />
 
+<pre>
+
 <?php
 
-print 'hello';
+print 'ifconfig';
 
 ?>
 </pre>
